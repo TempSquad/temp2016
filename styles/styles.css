@@ -1,0 +1,40 @@
+﻿.img {
+  background: url("../styles/menu.jpg") no-repeat;
+  font-color: black;
+}
+.img:hover {
+  background: #96c42d;
+  font-color: white;
+}
+
+.img1 {
+  background: url("../styles/menu1.jpg") no-repeat; 
+   font-color: black;
+}
+.img1:hover {
+  background: #96c42d;
+  font-color: white;
+}
+
+.text_menu {
+  text-decoration: none;
+  font-family: Arial;
+  color: black;
+  font-size: 80%;
+}
+.text_menu:hover {
+  text-decoration: none;
+   color: white;
+}
+
+.font_low{
+	fot-face: Arial;
+	font-size: 13px; 
+	font-weight: 300;
+}
+
+.font_res{
+	fot-face: Arial;
+	font-size: 16px; 
+	color: red;
+}
